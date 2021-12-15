@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "spawn_egg:blocks/essenceblock",
+    "up": "spawn_egg:blocks/essenceblock",
+    "north": "spawn_egg:blocks/essenceblock",
+    "east": "spawn_egg:blocks/essenceblock",
+    "south": "spawn_egg:blocks/essenceblock",
+    "west": "spawn_egg:blocks/essenceblock",
+    "particle": "spawn_egg:blocks/essenceblock"
+  }
+}
